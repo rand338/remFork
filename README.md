@@ -1,5 +1,12 @@
 ***
 
+Den API-Key erzeugst du hier
+https://github.com/settings/personal-access-tokens
+
+Erzeuge einen "fine-grained token" und gib dir Read/Write access
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/apikey.png?raw=true)
+
 # GitHub Fork Deleter
 
 Ein einfaches Python-Skript zum schnellen Auffinden und Löschen aller geforkten Repositories in deinem GitHub-Account.
