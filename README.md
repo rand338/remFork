@@ -32,8 +32,8 @@ pip install PyGithub
 
 ## Anwendung
 
-1. **Skript speichern**: Speichere den Python-Code aus der vorherigen Antwort in einer Datei namens `delete_forks.py`.
-2. **Terminal öffnen**: Navigiere im Terminal (Kommandozeile) in das Verzeichnis, in dem du die Datei `delete_forks.py` gespeichert hast.
+1. **Skript speichern**: Speichere den Python-Code aus der vorherigen Antwort in einer Datei namens `main.py`.
+2. **Terminal öffnen**: Navigiere im Terminal (Kommandozeile) in das Verzeichnis, in dem du die Datei `main.py` gespeichert hast.
 3. **Skript ausführen**: Starte das Skript mit folgendem Befehl:
 
 ```bash
