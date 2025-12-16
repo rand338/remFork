@@ -5,7 +5,8 @@ https://github.com/settings/personal-access-tokens
 
 Erzeuge einen "fine-grained token" und gib dir Read/Write access
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/apikey.png?raw=true)
+![alt text](blob:https://github.com/fc0ebc52-ce0a-42a1-8bf6-e6f8c2bc5977)
+
 
 # GitHub Fork Deleter
 
