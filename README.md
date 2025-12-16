@@ -6,7 +6,7 @@ https://github.com/settings/personal-access-tokens
 Erzeuge einen "fine-grained token" und gib dir Read/Write access
 
 
-# GitHub Fork Deleter
+# remFork (fork repository entferner)
 
 Ein einfaches Python-Skript zum schnellen Auffinden und Löschen aller geforkten Repositories in deinem GitHub-Account.
 
@@ -40,7 +40,7 @@ pip install PyGithub
 3. **Skript ausführen**: Starte das Skript mit folgendem Befehl:
 
 ```bash
-python delete_forks.py
+python main.py
 ```
 
 4. **Anweisungen folgen**:
