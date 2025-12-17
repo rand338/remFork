@@ -16,7 +16,7 @@ Ein einfaches Python-Skript zum schnellen Auffinden und Löschen aller geforkten
 Bevor du das Skript ausführen kannst, stelle sicher, dass die folgenden Punkte erfüllt sind:
 
 1. **Python 3** ist auf deinem System installiert.
-2. Die Python-Bibliothek **`PyGithub`** muss installiert sein. Öffne dein Terminal und führe folgenden Befehl aus:
+2. sofern du **`PyGithub`** nicht hast, installiere dies mit 
 
 ```bash
 pip install PyGithub
@@ -32,9 +32,8 @@ pip install PyGithub
 
 ## Anwendung
 
-1. **Skript speichern**: Speichere den Python-Code aus der vorherigen Antwort in einer Datei namens `main.py`.
-2. **Terminal öffnen**: Navigiere im Terminal (Kommandozeile) in das Verzeichnis, in dem du die Datei `main.py` gespeichert hast.
-3. **Skript ausführen**: Starte das Skript mit folgendem Befehl:
+1. **speichern**: Speichere das Script `main.py`.
+2. **ausführen**: das Skript mit folgendem Befehl:
 
 ```bash
 python main.py
